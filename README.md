@@ -161,6 +161,12 @@ Caminho Hamiltoniano: [0, 1, 2, 3]
 #### Visualização do Caminho Hamiltoniano
 O grafo e o caminho Hamiltoniano encontrado serão visualizados em uma janela gráfica, onde o caminho será destacado em vermelho.
 
+#### Grafo Não Dirigido com Caminho Hamiltoniano:
+![Grafo Não Dirigido](assets/grafo_nao_dirigido.png)
+
+#### Grafo Dirigido com Caminho Hamiltoniano:
+![Grafo Dirigido](assets/grafo_dirigido.png)
+
 ## Análise de Complexidade 
 ### Classes de Complexidade (P, NP, NP-Completo e NP-Difícil)
 O problema do Caminho Hamiltoniano pertence à classe NP-Completo, pois:
